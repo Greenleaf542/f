@@ -495,4 +495,14 @@ footer {
         grid-template-columns: auto auto auto auto;
         padding: 5px;
     }
+    .main-heading.sytle-2 h2 {
+        position: relative;
+        display: inline-block;
+        padding: 0;
+        text-transform: capitalize;
+        font-weight: 600;
+        color: #111;
+        line-height: 21px;
+        font-size: 30px;
+    }
   }
