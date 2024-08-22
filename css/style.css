@@ -6,6 +6,7 @@
 }
 body {
     font-family: 'Poppins', sans-serif;
+   
 }
 .header {
     background: url(../img/bg1.png);
@@ -461,6 +462,11 @@ footer {
     border-top: 1px solid #ccc;
 }
 @media screen and (max-width: 600px) {
+    body
+    {
+          overflow-y: none;
+         overflow-x: none;
+    }
     .grid 
     {
         display: none;
