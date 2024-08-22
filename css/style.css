@@ -453,9 +453,19 @@ footer {
     font-size: 18px;
     margin: 0 10px;
 }
+   
 .u ul li a{
     color: #fff;
 }
 .p-3 {
     border-top: 1px solid #ccc;
+}
+@media screen(mix-width:1440 x 3200)
+{
+    .banner {
+    color: #fff;
+    max-width: none;
+    position: relative;
+    left:1193px;
+}
 }
