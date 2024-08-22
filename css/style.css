@@ -463,7 +463,7 @@ footer {
 .p-3 {
     border-top: 1px solid #ccc;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 350px) {
     body
     {
           overflow-y: none;
